@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter application.
+A TODO application to sort daily routine.
 
 ## Getting Started
 
